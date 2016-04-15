@@ -1,0 +1,1 @@
+obj/functions.dep : src/functions.cpp src/functions.hpp
